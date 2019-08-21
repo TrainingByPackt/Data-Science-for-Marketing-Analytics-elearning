@@ -1,9 +1,8 @@
 # Data Science for Marketing Analytics elearning
-# Data Science for Marketing Analytics
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Data Science for Marketing Analytics.svg)](https://github.com/TrainingByPackt/Data Science for Marketing Analytics/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Data Science for Marketing Analytics.svg)](https://github.com/TrainingByPackt/Data Science for Marketing Analytics/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data Science for Marketing Analytics-.svg)](https://github.com/TrainingByPackt/Data Science for Marketing Analytics-/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data Science for Marketing Analytics-/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Data-Science-for-Marketing-Analytics-elearning.svg)](https://github.com/TrainingByPackt/Data-Science-for-Marketing-Analytics-elearning/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Data-Science-for-Marketing-Analytics-elearning.svg)](https://github.com/TrainingByPackt/Data-Science-for-Marketing-Analytics-elearning/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data-Science-for-Marketing-Analytics-elearning-.svg)](https://github.com/TrainingByPackt/Data-Science-for-Marketing-Analytics-elearning-/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data-Science-for-Marketing-Analytics-elearning-/pulls)
 
 
 # Data Science for Marketing Analytics
