@@ -4,8 +4,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Data-Science-for-Marketing-Analytics-elearning.svg)](https://github.com/TrainingByPackt/Data-Science-for-Marketing-Analytics-elearning/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Data-Science-for-Marketing-Analytics-elearning/pulls)
 
-
-# Data Science for Marketing Analytics
 Achieve your marketing goals with the data analytics power of Python.
 
 ## What you will learn
